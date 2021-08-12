@@ -1,0 +1,10 @@
+.container {
+  display: grid;
+  gap: 2em;
+  grid-template-columns: repeat(12, 1fr);
+  overflow: hidden;
+  margin: 15px 15px 10px 15px;
+  background-color: rgba(241, 233, 233, 0.822);
+  min-height: 86vh;
+  min-width: 96vw;
+}

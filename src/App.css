@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  display: grid;
+  justify-items: stretch;
+  align-items: start;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+}
+

@@ -1,0 +1,27 @@
+.buscar{
+    display: flex;
+    margin:auto;
+    padding: 1rem;
+    justify-items: center;
+    align-items: center;
+}
+
+.input{
+    margin:0 15px 0 50px;
+    border-radius: 15px;
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.5);
+    font-size: 18px;
+}
+
+.btnSearch{
+    border-radius: 15px;
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.5);
+    background-color: #F7DC6F;
+    border: 2px solid #0d123b;
+    color: black;
+    font-size: 20px;
+    padding: 8px 8px 8px 8px;
+}
+
+.btnSearch:hover {background-color: #d4d4d4}
+
