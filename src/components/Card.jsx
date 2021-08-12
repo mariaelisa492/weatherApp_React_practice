@@ -13,7 +13,7 @@ export default function Card(props) {
         <p>Max {props.max} °C</p>
         <p>Min {props.min} °C</p>
       </div>
-      <img src={`http://openweathermap.org/img/wn/${props.img}@2x.png`} alt={"img"} className={styleCard.imageClimate}/>
+      <img src={`https://openweathermap.org/img/wn/${props.img}@2x.png`} alt={"img"} className={styleCard.imageClimate}/>
       </div>
     </div>
   )
